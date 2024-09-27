@@ -4,7 +4,7 @@ create SQL queries to get the result as the sample data in [Excel](resources/Sam
 1. consider the oz and ct word.
 2. if oz or ct are not found, it shows 0 (zero), else 1 (one).
 3. consider the NetWeight.
-4. the database id SQLServer.
+4. the database is SQLServer.
 
 ![SQL query and result](resources/02.png)
 [SQL query](query1.sql)
